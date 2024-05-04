@@ -1,0 +1,22 @@
+body {
+    font-size: var(--font-5);
+    background-color: #10192a;
+  }
+  
+  header {
+    background-color: #10192a;
+    color: #4ccc76;
+    padding: var(--spacing-6) var(--spacing-0) var(--spacing-6);
+    text-align: center;
+  }
+  
+  .ultratitle {
+    font-size: var(--font-8);
+    color:#4ccc76;
+    padding: var(--spacing-10) var(--spacing-0) var(--spacing-5);
+    text-align: center;
+  }
+  p{
+    color:#4ccc76;
+    text-align: center;
+  }
